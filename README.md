@@ -1,6 +1,6 @@
 # Prometheus Blackbox Exporter — Railway Template
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/blackbox-exporter)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/Y0tr7x?referralCode=9kQOPq&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 The [Prometheus Blackbox Exporter](https://github.com/prometheus/blackbox_exporter) probes HTTP, TCP, DNS, and ICMP endpoints and exposes the results as Prometheus metrics. Use it to monitor external service availability from your Prometheus instance.
 
